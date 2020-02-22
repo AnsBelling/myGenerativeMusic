@@ -1,0 +1,64 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.vs/myGenerativeMusic/v15/ipch/AutoPCH/2280f4584302dbc8/MATRIX.ipch
+.vs/myGenerativeMusic/v15/ipch/AutoPCH/260cb740270f0f4f/OFAPP.ipch
+.vs/myGenerativeMusic/v15/ipch/AutoPCH/4af7e79ef678a89b/OFXMARKOVCHAIN.ipch
+.vs/myGenerativeMusic/v15/ipch/AutoPCH/b76c255460ddd03c/OFAPP.ipch
+addons.make
+.vs/myGenerativeMusic/v15/Solution.VC.db-wal
+.vs/myGenerativeMusic/v15/Solution.VC.db-shm
+.vs/myGenerativeMusic/v15/Solution.VC.db
+.vs/myGenerativeMusic/v15/Browse.VC.opendb
+.vs/myGenerativeMusic/v15/Browse.VC.db
+.vs/myGenerativeMusic/v15/.suo
+myGenerativeMusic.sln
+myGenerativeMusic.vcxproj
+myGenerativeMusic.vcxproj.filters
+myGenerativeMusic.vcxproj.user
+obj/x64/Debug/icon.res
+obj/x64/Debug/vc141.pdb
+obj/x64/Debug/myGenerativeMusic.log
+obj/x64/Debug/myGenera.7FD42DF7.tlog/rc.write.1.tlog
+obj/x64/Debug/myGenera.7FD42DF7.tlog/rc.read.1.tlog
+obj/x64/Debug/myGenera.7FD42DF7.tlog/rc.command.1.tlog
+obj/x64/Debug/myGenera.7FD42DF7.tlog/myGenerativeMusic.write.1u.tlog
+obj/x64/Debug/myGenera.7FD42DF7.tlog/myGenerativeMusic.lastbuildstate
+obj/x64/Debug/myGenera.7FD42DF7.tlog/link.write.1.tlog
+obj/x64/Debug/myGenera.7FD42DF7.tlog/link.read.1.tlog
+obj/x64/Debug/myGenera.7FD42DF7.tlog/link.command.1.tlog
+obj/x64/Debug/myGenera.7FD42DF7.tlog/CL.write.1.tlog
+obj/x64/Debug/myGenera.7FD42DF7.tlog/CL.read.1.tlog
+obj/x64/Debug/myGenera.7FD42DF7.tlog/CL.command.1.tlog
+bin/myGenerativeMusic_debug.pdb
+bin/myGenerativeMusic_debug.exp
+icon.rc
